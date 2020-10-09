@@ -8,7 +8,9 @@
 
 #### Learning
 * I'm currently in constant learning, with Front-end, Back-end and Mobile development.
-* In **Back-end** scope, i like to learn and build my projects with, PHP and Laravel, NodeJS, Express. In the **Front-end** scope using Javascript with VueJS as my principal framework, but also learning React. **Mobile** development using React Native and QuasarJS (VueJS based, generally it uses Cordova, Ionic to build the app).
+* **Back-end** scope, i like to learn and build my projects with, **PHP** and Laravel, **NodeJS** and Express.
+* **Front-end** scope using Javascript with VueJS as my principal framework, but also learning React.
+* **Mobile** development using React Native and QuasarJS (VueJS based, generally it uses Cordova, Ionic to build the app).
 * I'm also have interest in DevOps, S.O automation, i'm a Linux lover, using RPM distros, and my principals distros are Fedora and SUSE.
 
 #### Hobbies
