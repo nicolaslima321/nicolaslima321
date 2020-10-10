@@ -3,8 +3,13 @@
 
 ### About me
 
-#### Work
-* I'm currently working as Full-Stack Developer at Netscan Digital.
+#### Overall
+* Hello World =) .. Well, a little bit about me.. I'm a student of computer engineering (8th semester), currently working as Full-Stack Developer at Netscan Digital.
+
+#### Projects
+* I'm currently working on some projects, meanwhile, theres no project with kind off business proposes, or somehing like.. Theres are only projects that i made on events, lessons, studies, and the coolests ones, for entertainment.
+* There's will be listed some of these projects
+- [NickFlix](https://github.com/nicolaslima321/NickFlix) - A Netflix clone, called NickFlix! (Still in progress..)
 
 #### Learning
 * I'm currently in constant learning, with Front-end, Back-end and Mobile development.
