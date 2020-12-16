@@ -4,7 +4,7 @@
 ### About me
 
 #### Overall
-* Hello World =) .. Well, a little bit about me.. I'm a student of computer engineering (8th semester), currently working as Full-Stack Developer at Netscan Digital.
+* Hello World =) .. Well, a little bit about me.. I'm a student of computer engineering (8th semester), currently working as Developer at Quero Educação.
 
 #### Projects
 * I'm currently working on some projects, meanwhile, theres no project with kind off business proposes, or somehing like.. Theres are only projects that i made on events, lessons, studies, and the coolests ones, for entertainment.
