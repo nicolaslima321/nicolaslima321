@@ -33,7 +33,7 @@
   * #### **Mobile** :iphone:
     * **React Native**, **Ionic** and **Cordova**.
   * #### **DevOps** :penguin:
-    * I'm high skilled in Linux and UNIX.
+    * I'm skilled in Linux and UNIX.
     * My knowlodge in DevOps is basic, but i like to use and configure my projects with Docker. Also have some knowlodge in Ansible, Vagrant and AWS.
 
 #### Hobbies
