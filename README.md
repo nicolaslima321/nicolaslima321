@@ -10,8 +10,8 @@
 * Welcome to my profile! I'am a **Full-Stack Developer**, currently working at **Quero Educação**. I'm also student of **Computer Engineering**.
 
 <div style="display: flex; flex-direction: row;">
-  <img style="margin-right: 1em" src="https://github-readme-stats.vercel.app/api?username=nicolaslima321&count_private=true&show_icons=true&theme=dark" height="200px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaslima321&hide=java,%20ruby&show_icons=true&theme=dark&layout=compact" height="200px">
+  <img style="flex: 1; margin-right: 1em" src="https://github-readme-stats.vercel.app/api?username=nicolaslima321&count_private=true&show_icons=true&theme=dark" height="200px">
+  <img style="flex: 1;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaslima321&hide=java,%20ruby&show_icons=true&theme=dark&layout=compact" height="200px">
 </div>
 
 ***
@@ -38,7 +38,7 @@
     <img alt="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="40px" height="40px" />
     <img alt="TailwindCss" src="https://camo.githubusercontent.com/53b9876cd8e38928387c6824043b0e2772b15b1bfdb7f42d0864216abbf3dfe8/68747470733a2f2f7265666163746f72696e6775692e6e7963332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f7461696c77696e642d6c6f676f2e737667" height="40px" />
     <img alt="Electron (Desktop)" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" width="40px" height="40px" />
-     
+
     *Electron is for desktop btw*
     
   * #### **Mobile** :iphone:
