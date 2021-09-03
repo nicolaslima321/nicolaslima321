@@ -9,9 +9,9 @@
 #### About me :bookmark:
 * Welcome to my profile! I'am a **Full-Stack Developer**, currently working at **Quero Educação**. I'm also student of **Computer Engineering**.
 
-<div style="display: flex; flex-direction: row;">
-  <img style="flex: 1; margin-right: 1em" src="https://github-readme-stats.vercel.app/api?username=nicolaslima321&count_private=true&show_icons=true&theme=dark" height="200px">
-  <img style="flex: 1;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaslima321&hide=java,%20ruby&show_icons=true&theme=dark&layout=compact" height="200px">
+<div style="display: flex;">
+  <img style="margin-right: 1em" src="https://github-readme-stats.vercel.app/api?username=nicolaslima321&count_private=true&show_icons=true&theme=dark" height="200px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaslima321&hide=java,%20ruby,%20CSS,%20objective-c,%20html&show_icons=true&theme=dark&layout=compact" height="200px">
 </div>
 
 ***
