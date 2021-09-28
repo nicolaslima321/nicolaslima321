@@ -4,8 +4,7 @@
 -----
 
 ### Hello World :sunglasses::fist:
-<!-- <img src="baryon-mode.gif"> -->
-<video autoplay loop muted playsinline src="baryon-mode.mp4"></video>
+<img src="baryon-mode-slow.gif">
 
 #### About me :bookmark:
 * Welcome to my profile! I'am a **Full-Stack Developer**, currently working at **Quero Educação**. I'm also student of **Computer Engineering**.
