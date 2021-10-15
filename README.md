@@ -1,5 +1,5 @@
 # Nicolas Lima
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nicolaslima321)](https://github.com/nicolaslima321) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-lima-98a0a1131/)](https://www.linkedin.com/in/nicolas-lima-98a0a1131/)
+[![Github Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nicolaslima321)](https://github.com/nicolaslima321) [![DevTo Badge](https://img.shields.io/badge/-DEV.TO-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/nicolaslima321)](https://img.shields.io/badge/-DEV.TO-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/nicolaslima321) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-lima-98a0a1131/)](https://www.linkedin.com/in/nicolas-lima-98a0a1131/)
 
 -----
 
