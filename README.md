@@ -6,10 +6,13 @@
 ### Hello World :sunglasses::fist:
 <img src="baryon-mode-slow.gif">
 
-#### About me :bookmark:
+### Articles :book:
+* [*How functional programming made me an better developer, with Elixir*](https://dev.to/nicolaslima321/how-functional-programming-made-me-an-better-developer-with-elixir-34eg) **(Checkout my first article :D)**
+### About me :bookmark:
 * Welcome to my profile! I'am a **Full-Stack Developer**, currently working at **Quero Educação**. I'm also student of **Computer Engineering**.
 
-<div style="display: flex;">
+
+<div style="display: flex; width: 100%;">
   <img style="margin-right: 1em" src="https://github-readme-stats.vercel.app/api?username=nicolaslima321&count_private=true&show_icons=true&theme=dark" height="200px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaslima321&hide=java,%20ruby,%20CSS,%20objective-c,%20html&show_icons=true&theme=dark&layout=compact" height="200px">
 </div>
