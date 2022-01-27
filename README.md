@@ -1,5 +1,5 @@
 # Nicolas Lima
-[![Github Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nicolaslima321)](https://github.com/nicolaslima321) [![DevTo Badge](https://img.shields.io/badge/-DEV.TO-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/nicolaslima321)](https://dev.to/nicolaslima321) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-lima-98a0a1131/)](https://www.linkedin.com/in/nicolas-lima-98a0a1131/)
+[![Github Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nicolaslima321)](https://github.com/nicolaslima321) [![DevTo Badge](https://img.shields.io/badge/-DEV.TO-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/nicolaslima321)](https://dev.to/nicolaslima321) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-lima-98a0a1131/)](https://www.linkedin.com/in/nicolas-lima-98a0a1131/) [![Instagram Badge](https://img.shields.io/badge/-nicolas4dev-C13584?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nicolas4dev/)](https://www.instagram.com/nicolas4dev/)
 
 -----
 
@@ -8,14 +8,15 @@
 
 ### Articles :book:
 * [*How functional programming made me an better developer, with Elixir*](https://dev.to/nicolaslima321/how-functional-programming-made-me-an-better-developer-with-elixir-34eg) **(Checkout my first article :D)**
+
 ### About me :bookmark:
-* Welcome to my profile! I'am a **Full-Stack Developer**, currently working at **Quero Educação**. I'm also student of **Computer Engineering**.
+<img style="margin: -5em 0 -2em 0" src="welcome-code.png">
 
 
 <div align="center">
-  <span style="display: inline-block">
-    <img src="https://github-readme-stats.vercel.app/api?username=nicolaslima321&count_private=true&show_icons=true&theme=dark" height="200px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaslima321&hide=java,%20ruby,%20CSS,%20objective-c,%20html&show_icons=true&theme=dark&layout=compact" height="200px">
+  <span style="display: flex;">
+    <img style="flex-basis: 50%" src="https://github-readme-stats.vercel.app/api?username=nicolaslima321&count_private=true&show_icons=true&theme=dark" height="200px">
+    <img style="flex-basis: 50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaslima321&hide=java,%20ruby,%20CSS,%20objective-c,%20html&show_icons=true&theme=dark&layout=compact" height="200px">
   </span>
 </div>
 
