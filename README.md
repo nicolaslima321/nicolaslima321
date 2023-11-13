@@ -6,9 +6,6 @@
 ### Hello World :sunglasses::fist:
 <img src="baryon-mode-slow.gif">
 
-### Articles :book:
-* [*How functional programming made me an better developer, with Elixir*](https://dev.to/nicolaslima321/how-functional-programming-made-me-an-better-developer-with-elixir-34eg) **(Checkout my first article :D)**
-
 ### About me :bookmark:
 <img style="margin: -5em 0 -2em 0" src="welcome-code.png">
 
